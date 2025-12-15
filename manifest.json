@@ -7,7 +7,7 @@
       "id": "full_pack",
       "type": "full",
       "version": "1.0",
-      "url": "/v1.0/assets-v.1.0.zip",
+      "url": "/v1.0/assets-v.1.1.zip",
       "size_bytes": 261120000,
       "checksum": "sha256:placeholder_checksum_to_be_replaced_with_real_one",
       "mandatory": true,
