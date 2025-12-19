@@ -6,8 +6,8 @@
     {
       "id": "full_pack",
       "type": "full",
-      "version": "1.1",
-      "url": "/v1.1/assets-v.1.1.zip",
+      "version": "1.4",
+      "url": "/v1.1/assets-v1.4.zip",
       "size_bytes": 261120000,
       "checksum": "sha256:931dabb1342b40c3923ecc97526bf9742f13eb0d56b4f8e595de32df96930eb1",
       "mandatory": true,
