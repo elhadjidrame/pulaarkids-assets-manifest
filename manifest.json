@@ -1,17 +1,47 @@
 {
-  "version": "1.0",
-  "updated_at": "2025-12-11T10:00:00Z",
+  "version": "1.1",
+  "updated_at": "2025-12-21T12:00:00Z",
   "base_url": "https://github.com/elhadjidrame/pulaarkids-assets/releases/download",
   "packs": [
     {
-      "id": "full_pack",
+      "id": "pack_vocabulary",
       "type": "full",
-      "version": "1.0",
-      "url": "/v1.1/assets-v1.0.zip",
-      "size_bytes": 261120000,
-      "checksum": "sha256:c982d9abdaaa2f6b70140ec6e26f9db17d88825cdf0247e5e1eb4fb51ff1ef19",
+      "version": "1.1",
+      "url": "/v1.1/pack_vocabulary_v1.1.zip",
+      "size_bytes": 98560948,
+      "checksum": "ffd18382606fdc154aba68075a94a2528db00085103eda7c6e0b322825015587",
       "mandatory": true,
-      "min_app_version": "1.0.0"
+      "description": "Images et audio du module Vocabulaire"
+    },
+    {
+      "id": "pack_sentences",
+      "type": "full",
+      "version": "1.1",
+      "url": "/v1.1/pack_sentences_v1.1.zip",
+      "size_bytes": 68560236,
+      "checksum": "f64e956ebd9f5d2dd22b703005c3ea3d1cfd5f69c368555a93f394d3e01ffb1b",
+      "mandatory": true,
+      "description": "Images et audio du module Phrases"
+    },
+    {
+      "id": "pack_fables",
+      "type": "audio",
+      "version": "1.1",
+      "url": "/v1.1/pack_fables_v1.1.zip",
+      "size_bytes": 64935529,
+      "checksum": "97064a87eab95320023b074de7bd4b296fb7b31e9bc9746155869f17d1315aea",
+      "mandatory": true,
+      "description": "Histoires et contes"
+    },
+    {
+      "id": "pack_games",
+      "type": "mini_games",
+      "version": "1.1",
+      "url": "/v1.1/pack_games_v1.1.zip",
+      "size_bytes": 5598846,
+      "checksum": "0369c4f4a3ff1c9b29502641e1b63df4e0548d48777dfcf5723661954619b6a4",
+      "mandatory": true,
+      "description": "Assets spécifiques aux jeux"
     }
   ]
 }
